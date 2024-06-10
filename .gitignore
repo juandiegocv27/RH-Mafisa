@@ -25,3 +25,70 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+
+* text=auto
+
+*.c text
+*.h text
+*.cpp text
+*.hpp text
+*.java text
+*.xml text
+*.yaml text
+*.yml text
+*.json text
+
+
+*.bat eol=crlf
+
+*.sh eol=lf
+*.yaml eol=lf
+*.yml eol=lf
+
+
+.dart_tool/
+.packages
+.pub/
+build/
+
+
+*.iml
+.idea/
+.gradle/
+local.properties
+*.log
+*.xml
+*.hprof
+*.jar
+*.ap_
+*.apk
+*.keystore
+*.jks
+
+
+Pods/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcworkspace
+*.lock
+*.moved-aside
+DerivedData/
+.idea/
+*.hmap
+*.ipa
+*.xcuserstate
+
+
+*.lock
+*.log
+*.tmp
+
+
+*.log
+*.txt
+*.tmp
+*.swp
