@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "248382408336",
+    "project_id": "rhactual-198a2",
+    "storage_bucket": "rhactual-198a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248382408336:android:6598c4e99d95d0698a3a15",
+        "android_client_info": {
+          "package_name": "com.yvargas30646.rhactual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248382408336-c10qktjlhhpc923iq2egouv8poe03668.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yvargas30646.rhactual",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "248382408336-ltcufvs7ujhfiilgca841pqpe5h15npm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnhCUj0qQF6yGd0geuNMVyaXAnXD1wulI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248382408336-ltcufvs7ujhfiilgca841pqpe5h15npm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248382408336-rtie8o1qvdo4ojr6p28kecp602rjbhkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yvargas30646.rhactual"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
